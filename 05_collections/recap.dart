@@ -13,5 +13,5 @@ void main() {
       print('Товар ${cart['title']} не в наявності');
     }
   }
-  print(total);
+  print('Загальна сума товарів в наявності: $total');
 }
